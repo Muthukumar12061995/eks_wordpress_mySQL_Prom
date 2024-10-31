@@ -1,0 +1,9 @@
+*.terraform
+*.terraform.*
+*.tfstate
+*.tfstate.*
+
+# To exclude terraform module folder at any level root or subfolders
+
+**/.terraform/
+
